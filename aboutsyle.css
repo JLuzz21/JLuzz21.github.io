@@ -1,4 +1,5 @@
 body {background-image: url("myBackground.jpg");}
 #navigation-table { width: 800px;}
 #nav-td {width: 200px; text-align:center;}
-#me-pic {width: 200px; float: left;}
+#me-pic {width: 200px;
+float: left;}
